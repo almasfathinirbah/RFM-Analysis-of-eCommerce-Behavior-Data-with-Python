@@ -25,7 +25,6 @@
 
 * category_id: Product's category ID
 
-
 * category_code: Product's category taxonomy (code name) if it was possible to make it. Usually present for meaningful categories and skipped for different kinds of accessories.
 
 * brand: Downcased string of brand name. Can be missed.
@@ -53,31 +52,15 @@
 ## **Exploratory Data Analysis**
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
 
-### **The best product to sell in the specific time of the day.**
+### **Oktober 2019**
+#### **The best product to sell**
+* New User
 
-![day 1](https://user-images.githubusercontent.com/75175081/126055622-72f3e776-1abf-4fe8-9e5d-a1a284618dd3.png)
+![image](https://user-images.githubusercontent.com/85482667/137193658-cd1cdef9-aebd-4be2-aff4-489b54470a1b.png)
 
-Most consumers shop at e-commerce on Wednesday. Actually, consumers have seen the product since Sunday. After Sunday consumers are still considering whether to buy or not. Beside that consumers are still comparing one product to another. The final decision to buy is mostly made on Wednesday. The e-commerce business team can provide a campaign to convince customers. The campaign can be intensified on Wednesday.
+* Repeat User
 
-### **The best Event to predict that User most likely to buy a product.**
-
-![brand 1](https://user-images.githubusercontent.com/75175081/126055688-36261382-7fcf-4700-b638-5bf981668b61.png)
-
-The best Event to predict that User most likely to buy a product is purchase of brand Samsung. Many consumers choose brand Samsung because it already has a strong and positive image for the smartphone segment. Samsung also has a simple and trend-following model. In addition, Samsung is diligent in innovating and releasing the latest technology. Seeing Samsung's very large consumer market, the e-commerce business team can make bundling package promos to expand the market.
-
-### **The behaviour of our repeat user vs new user by category product.**
-
-* The behavior of repeat user by category product
-
-![repeat user 1](https://user-images.githubusercontent.com/75175081/126055747-42dbc820-d78d-42e6-9e3c-0638ff6d9e75.png)
-
-Most repeat users buy smartphone electronics products. Meanwhile product electronics audio headphones have a very large gap. The e-commerce business team can make product bundling between electronics smartphone products and electronics audio headphones to increase profits from product categories that are still low in orders.
-
-* The behavior of new user by category product
-
-![new user 1](https://user-images.githubusercontent.com/75175081/126055765-f1c3dbb9-d905-44b7-9365-198e4bcfbd44.png)
-
-Most new users buy smartphone electronics products. The e-commerce business team can make promo of this product category to attract more new market users.
+![image](https://user-images.githubusercontent.com/85482667/137193736-32f81e3d-5158-4921-8456-eafec7ea8508.png)
 
 ## *Summary*
 
