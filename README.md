@@ -62,6 +62,57 @@ I looked at the distributions of the data and the value counts for the various c
 
 ![image](https://user-images.githubusercontent.com/85482667/137193736-32f81e3d-5158-4921-8456-eafec7ea8508.png)
 
+#### **The best category to sell**
+* New User
+
+![image](https://user-images.githubusercontent.com/85482667/137402386-e4a9edf3-df42-4d21-9674-bdb4ba991c2f.png)
+
+* Repeat User
+
+![image](https://user-images.githubusercontent.com/85482667/137402431-54090791-eb09-45d7-b00a-21ce47a0184a.png)
+
+### **Best event to predict that User most likely to buy a product**
+* New User
+
+![image](https://user-images.githubusercontent.com/85482667/137402801-dfe06c34-5c00-4a19-88d2-3a974126639f.png)
+
+![image](https://user-images.githubusercontent.com/85482667/137402602-7ccf873a-29da-45f1-a0a5-a5f2b5baaf4c.png)
+
+![image](https://user-images.githubusercontent.com/85482667/137402655-485d1708-67fb-463f-b31b-f2393136722d.png)
+
+* Repeat User
+
+![image](https://user-images.githubusercontent.com/85482667/137402987-79fd6f95-9636-4333-9adb-a21732ab89db.png)
+
+![image](https://user-images.githubusercontent.com/85482667/137402899-8b517282-c3b2-403a-a9f5-b396292a69ac.png)
+
+![image](https://user-images.githubusercontent.com/85482667/137402938-cd77834d-ed2b-479c-88d1-bec848b5cc82.png)
+
+### **November 2019**
+#### **The best product to sell**
+* New User
+
+![image](https://user-images.githubusercontent.com/85482667/137403161-6778046f-ca74-4630-b1ae-f3f955df755b.png)
+
+#### **The best category to sell**
+* New User
+
+![image](https://user-images.githubusercontent.com/85482667/137403269-138cf51f-a636-4eda-a060-c9fee716944b.png)
+
+### **Best event to predict that User most likely to buy a product**
+* New User
+
+![image](https://user-images.githubusercontent.com/85482667/137403360-ecbe84cc-8681-4b4b-bcf7-bead3f477b01.png)
+
+![image](https://user-images.githubusercontent.com/85482667/137403468-b5fcc7be-70fc-416f-a149-4c9e75518d4b.png)
+
+![image](https://user-images.githubusercontent.com/85482667/137403529-6ac3df02-f1a2-4de9-ae73-30a228d6a031.png)
+
+## RFM Segmentation
+
+![image](https://user-images.githubusercontent.com/85482667/137403851-2cc4c0b0-e20d-4ad3-b578-666b8281bde0.png)
+
+
 ## *Summary*
 
 * Most consumers shop at e-commerce on Wednesday. The e-commerce business team can provide a campaign to convince customers. The campaign can be intensified on Wednesday.
@@ -69,4 +120,14 @@ I looked at the distributions of the data and the value counts for the various c
 * Most repeat users buy smartphone electronics products. Meanwhile product electronics audio headphones have a very large gap. The e-commerce business team can make product bundling between electronics smartphone products and electronics audio headphones to increase profits from product categories that are still low in orders.
 * Most new users buy smartphone electronics products. The e-commerce business team can make promo of this product category to attract more new market users.
 
+## *Recommendation*
+Now that we've identified our customer categories, we can decide how to approach or deal with each customer.
 
+* Champions : Reward them. Can be early adopters of new products. Will promote your brand. Most likely to send referrals.
+* Loyal Customer : Upsell higher value products. Ask for reviews.
+* Potential Loyalist : Offer membership / loyalty program. Keep them engaged. Offer personalised recommendations.
+* Promising : Offer coupons. Bring them back to the platform and keep them engaged. Offer personalised recommendations.
+* About to Sleep : Win them back via renewals or newer products, don’t lose them to competition. Talk to them if necessary. Spend time on highest possible personalisation.
+* Can't Lose Them : Provide helpful resources on the site. Send personalised emails.
+* Hibernating : Make subject lines of emails very personalised. Revive their interest by a specific discount on a specific product.
+* Lost : Revive interest with reach out campaign. Ignore otherwise.
